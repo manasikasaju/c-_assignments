@@ -8,7 +8,6 @@ int main() {
     cout << "Input 2nd number: ";
     cin >> num2;
     
-    // Swapping without using a third variable
     num1 = num1 + num2;
     num2 = num1 - num2;
     num1 = num1 - num2;
